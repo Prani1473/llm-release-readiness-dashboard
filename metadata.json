@@ -1,0 +1,5 @@
+{
+  "name": "LLM Release Readiness Dashboard",
+  "description": "A comprehensive SDLC-inspired workbench for evaluating and deploying LLM prompts and agents.",
+  "requestFramePermissions": []
+}
